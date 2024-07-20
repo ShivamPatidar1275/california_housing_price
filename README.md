@@ -10,6 +10,5 @@
 
 ### Create a New envioremet
 
-'''
-python3 -m venv m
-'''
+```bash
+python3 -m venv myenv

@@ -8,13 +8,13 @@
 4. [Git CLI](https://git-scm.com/book/en/v2/)
 5. [Docker Desktop](https://www.docker.com/)
 
+### Create a New Environment
 
-### Create a New envioremet - Pace, R. Kelley and Ronald Barry, Sparse Spatial Autoregressions,
-      Statistics and Probability Letters, 33 (1997) 291-297
+To create and activate a new Python virtual environment, use the following commands:
 
 ```bash
 python3 -m venv myenv
-
+source myenv/bin/activate  # On Windows use `myenv\Scripts\activate
 ```
 
 ## Dataset Details
